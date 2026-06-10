@@ -330,12 +330,6 @@ App runs at: `http://localhost:5173`
 
 ---
 
-## Interview Preparation
-
-See **[INTERVIEW_QUESTIONS.md](./INTERVIEW_QUESTIONS.md)** for 25+ common questions with answers.
-
----
-
 ## License
 
 MIT — Free to use for learning and portfolio projects.
